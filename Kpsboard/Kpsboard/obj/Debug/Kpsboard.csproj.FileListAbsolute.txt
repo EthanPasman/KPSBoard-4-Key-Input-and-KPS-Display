@@ -1,0 +1,13 @@
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\bin\Debug\Kpsboard.exe.config
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\bin\Debug\Kpsboard.exe
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\bin\Debug\Kpsboard.pdb
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.Properties.Resources.resources
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.exe
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.pdb
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.Form1.resources
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\bin\Debug\Kpsboard.exe.manifest
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\bin\Debug\Kpsboard.application
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.exe.manifest
+C:\Users\Ethan\source\repos\Kpsboard\Kpsboard\obj\Debug\Kpsboard.application
